@@ -1,0 +1,28 @@
+{
+    "name": "Eutopia Token",
+    "website": "https://www.eutopia.finance/",
+    "description": "Eutopia Token is the utility token of Eutopia Autostaking Protocol",
+    "explorer": "https://etherscan.io/token/0xb6551900d7fb1b51ebb29fa0143a6ebf0fb0d47f",
+    "symbol": "EUTO",
+    "type": "ERC20",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xb6551900d7FB1b51ebb29FA0143a6EBf0FB0D47F",
+    "tags": [
+        "staking"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/orgs/Eutopia-Finance"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/EutopiaFinance"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://docs.eutopia.finance"
+        }
+    ]
+}
